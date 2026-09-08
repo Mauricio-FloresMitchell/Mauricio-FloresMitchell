@@ -169,8 +169,8 @@ Motor de prospección B2B geolocalizada — extracción y filtrado de leads desd
 
 <table>
 <tr>
-<td width="150" valign="middle" align="center">
-<img src="./assets/mau-ares.png" width="130" alt="Ares" />
+<td width="130" valign="middle" align="center">
+<img src="./assets/mau-ares.png" width="110" alt="Ares" />
 </td>
 <td valign="top" align="center">
 
