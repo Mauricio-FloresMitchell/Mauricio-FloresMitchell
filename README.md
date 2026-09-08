@@ -5,36 +5,28 @@
 </td>
 <td valign="top">
 
-# MAURICIO FLORES LÓPEZ
-### `Full-Stack Developer` · `Backend & IA Aplicada` · `Est. de México, MX`
+<img src="./assets/dev-mau-flores-title.png" width="380" alt="Dev Mau Flores" />
 
-*(alias profesional: **Dev Mau Flores** — consultoría tecnológica)*
+### `Full-Stack Developer` · `Backend & IA Aplicada` · `CDMX, México`
 
-Construyo sistemas backend robustos y automatizaciones con IA aplicada — de la lógica de negocio a los agentes que la sostienen.
+`~/whoami`
+
+<pre>
+Rol........................ Full-Stack Developer (Backend + IA Aplicada)
+Base....................... Java · Spring Boot · PLSQL · Python
+Frontend................... React · TypeScript · Vite · TailwindCSS
+IA.......................... Arquitecturas RAG, agentes, prompt engineering
+Bases de datos.............. PostgreSQL · Oracle SQL
+Educación................... Ing. en Sistemas Computacionales — UAN (2026)
+Certificaciones............. Back-End Developer (ONE / Alura LATAM, 2025)
+                              AWS Certified AI Practitioner (AIF-C01)
+                              AWS Certified Cloud Practitioner
+Idiomas...................... Español (nativo) · Inglés (técnico)
+</pre>
 
 </td>
 </tr>
 </table>
-
----
-
-### `~/whoami`
-
-<img src="./assets/mau-avatar.png" width="90" align="right" alt="" />
-
-```yaml
-Rol...................... Full-Stack Developer (Backend + IA Aplicada)
-Base...................... Java · Spring Boot · PLSQL · Python
-Frontend.................. React · TypeScript · Vite · TailwindCSS
-IA........................ Arquitecturas RAG, agentes, prompt engineering
-Bases de datos............ PostgreSQL · Oracle SQL
-Educación................. Ing. en Sistemas Computacionales — Universidad América del Norte (2026)
-Certificación.............. Back-End Developer — Oracle Next Education / Alura LATAM (2025)
-En curso................... AWS Certified AI Practitioner (AIF-C01)
-Idiomas.................... Español (nativo) · Inglés (técnico)
-```
-
-<br clear="right"/>
 
 ---
 
@@ -43,15 +35,82 @@ Idiomas.................... Español (nativo) · Inglés (técnico)
 
 ### STACK TÉCNICO
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,vite,tailwind,python,postgres,oracle,git,vercel&theme=dark" />
-
 </div>
 
 <br clear="left"/>
 
+**Lenguajes**
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" title="Java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" title="JavaScript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" title="TypeScript" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" title="Python" alt="Python" />
+<img src="https://img.shields.io/badge/PL%2FSQL-B87333?style=flat-square" title="PL/SQL" alt="PL/SQL" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" title="React 19" alt="React" />
+<img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="36" title="React Router DOM" alt="React Router DOM" />
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="36" title="Vite" alt="Vite" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" title="TailwindCSS" alt="TailwindCSS" />
+<img src="https://cdn.simpleicons.org/shadcnui/8B5CF6" width="36" title="shadcn/ui" alt="shadcn/ui" />
+<img src="https://cdn.simpleicons.org/radixui/8B5CF6" width="36" title="Radix UI" alt="Radix UI" />
+<img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="36" title="React Hook Form" alt="React Hook Form" />
+<img src="https://cdn.simpleicons.org/zod/3E67B1" width="36" title="Zod" alt="Zod" />
+
+**Backend & automatización**
+
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" title="Spring Boot" alt="Spring Boot" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" title="Node.js" alt="Node.js" />
+<img src="https://cdn.simpleicons.org/googleappsscript" width="36" title="Google Apps Script" alt="Google Apps Script" />
+
+**Bases de datos**
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" title="PostgreSQL" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Oracle%20SQL%20%2F%20LiveSQL-B87333?style=flat-square" title="Oracle SQL / LiveSQL" alt="Oracle SQL / LiveSQL" />
+
+**IA & automatización aplicada**
+
+Herramientas:
+
+<img src="https://img.shields.io/badge/OpenAI%20API-8B5CF6?style=flat-square" title="OpenAI API" alt="OpenAI API" />
+<img src="https://cdn.simpleicons.org/claude/D97757" width="36" title="Claude Code" alt="Claude Code" />
+<img src="https://cdn.simpleicons.org/googlegemini" width="36" title="Google Gemini" alt="Google Gemini" />
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="36" title="Streamlit" alt="Streamlit" />
+
+Prácticas:
+
+<img src="https://img.shields.io/badge/Arquitecturas%20RAG-8B5CF6?style=flat-square" title="Arquitecturas RAG (recuperación de información aplicada a agentes)" alt="Arquitecturas RAG" />
+<img src="https://img.shields.io/badge/Dise%C3%B1o%20de%20Agentes%20IA-8B5CF6?style=flat-square" title="Diseño e implementación de agentes de IA personalizados" alt="Diseño de Agentes IA" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square" title="Prompt Engineering" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Evaluaci%C3%B3n%20de%20Modelos-8B5CF6?style=flat-square" title="Evaluación de modelos" alt="Evaluación de Modelos" />
+<img src="https://img.shields.io/badge/Optimizaci%C3%B3n%20de%20Latencia-8B5CF6?style=flat-square" title="Optimización de latencia" alt="Optimización de Latencia" />
+<img src="https://img.shields.io/badge/Optimizaci%C3%B3n%20de%20Costos%20de%20Tokens-8B5CF6?style=flat-square" title="Optimización y gestión de costo de tokens" alt="Optimización de Costos de Tokens" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40" title="AWS" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="36" title="Google Cloud" alt="Google Cloud" />
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="36" title="Vercel" alt="Vercel" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" alt="Git" />
+
+**Herramientas & IDEs**
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="32" title="VS Code" alt="VS Code" />
+<img src="https://img.shields.io/badge/Antigravity-B87333?style=flat-square" title="Antigravity" alt="Antigravity" />
+<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="32" title="Visual Studio" alt="Visual Studio" />
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="32" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="32" title="Postman" alt="Postman" />
+<img src="https://img.shields.io/badge/pgAdmin-B87333?style=flat-square" title="pgAdmin" alt="pgAdmin" />
+<img src="https://cdn.simpleicons.org/oxc/8B5CF6" width="32" title="oxlint" alt="oxlint" />
+
+**Otros** *(uso mínimo)*
+
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="28" title=".NET (uso mínimo)" alt=".NET" />
+
 ---
 
-### 🚂 PROYECTOS DESTACADOS
+### PROYECTOS DESTACADOS
 
 <table>
 <tr>
@@ -95,14 +154,15 @@ Motor de prospección B2B geolocalizada — extracción y filtrado de leads desd
 
 <!-- Portafolio: pendiente de publicar -->
 
-<br/>
-
-<img src="https://github-readme-stats.hackclub.dev/api?username=Mauricio-FloresMitchell&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-
 <br/><br/>
 
-<img src="./assets/mau-flot.png" width="90" alt="" />
+**Redes**
 
-*"El código, como el desierto, castiga a quien no se prepara."*
+<a href="https://www.tiktok.com/@devmflores"><img src="./assets/social-tiktok.png" width="42" title="TikTok" alt="TikTok" /></a>
+<a href="https://www.instagram.com/dev_mflores"><img src="./assets/social-instagram.png" width="42" title="Instagram" alt="Instagram" /></a>
+<a href="https://x.com/devmauflores"><img src="./assets/social-x.png" width="42" title="X" alt="X" /></a>
+<a href="https://www.linkedin.com/in/mauricio-flores-lópez-85b4611a1"><img src="./assets/social-linkedin.png" width="42" title="LinkedIn" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@dev_mflores"><img src="./assets/social-youtube.png" width="42" title="YouTube" alt="YouTube" /></a>
+<a href="https://discord.gg/cYesTp9sW"><img src="./assets/social-discord.png" width="42" title="Discord" alt="Discord" /></a>
 
 </div>
