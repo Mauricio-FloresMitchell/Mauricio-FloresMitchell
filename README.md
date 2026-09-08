@@ -36,10 +36,15 @@
 <img src="https://skillicons.dev/icons?i=js&theme=dark" width="42" title="JavaScript" alt="JavaScript" />
 <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="42" title="TypeScript" alt="TypeScript" />
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="42" title="Python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="36" title="C++" alt="C++" />
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="36" title="C#" alt="C#" />
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="36" title="PHP" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="36" title="HTML5" alt="HTML5" />
+<img src="https://img.shields.io/badge/PL%2FSQL-B87333?style=flat-square" title="PL/SQL" alt="PL/SQL" />
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>Frontend</b></td>
+<td valign="middle"><b>Frameworks</b></td>
 <td valign="middle">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" title="React 19" alt="React" />
 <img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="32" title="React Router DOM" alt="React Router DOM" />
@@ -49,11 +54,6 @@
 <img src="https://cdn.simpleicons.org/radixui/8B5CF6" width="32" title="Radix UI" alt="Radix UI" />
 <img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="32" title="React Hook Form" alt="React Hook Form" />
 <img src="https://cdn.simpleicons.org/zod/3E67B1" width="32" title="Zod" alt="Zod" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>Backend</b></td>
-<td valign="middle">
 <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="42" title="Spring Boot 3" alt="Spring Boot 3" />
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="32" title="Node.js" alt="Node.js" />
 <img src="https://cdn.simpleicons.org/googleappsscript" width="32" title="Google Apps Script" alt="Google Apps Script" />
@@ -64,11 +64,37 @@
 <td valign="middle"><b>Bases de datos</b></td>
 <td valign="middle">
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" title="PostgreSQL" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" title="MySQL" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" title="MongoDB" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQL%20Server-B87333?style=flat-square" title="SQL Server" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Aurora-B87333?style=flat-square" title="Amazon Aurora" alt="Aurora" />
+<img src="https://img.shields.io/badge/Oracle%20SQL%20%2F%20LiveSQL-B87333?style=flat-square" title="Oracle SQL / LiveSQL" alt="Oracle SQL / LiveSQL" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>APIs</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/REST-B87333?style=flat-square" title="REST" alt="REST" />
+<img src="https://cdn.simpleicons.org/json/FFFFFF" width="32" title="JSON" alt="JSON" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Autenticación y seguridad</b></td>
+<td valign="middle">
+<img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="32" title="JWT" alt="JWT" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Testing</b></td>
+<td valign="middle">
+<img src="https://cdn.simpleicons.org/junit5/25A162" width="32" title="JUnit 5" alt="JUnit 5" />
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="32" title="Postman" alt="Postman" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>IA — herramientas</b></td>
 <td valign="middle">
+<img src="https://img.shields.io/badge/OpenAI%20API-8B5CF6?style=flat-square" title="OpenAI API" alt="OpenAI API" />
 <img src="https://cdn.simpleicons.org/claude/D97757" width="32" title="Claude Code" alt="Claude Code" />
 <img src="https://cdn.simpleicons.org/googlegemini" width="32" title="Google Gemini" alt="Google Gemini" />
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="32" title="Streamlit" alt="Streamlit" />
@@ -92,6 +118,7 @@
 <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="32" title="Google Cloud" alt="Google Cloud" />
 <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="32" title="Vercel" alt="Vercel" />
 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="38" title="Git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="32" title="Docker" alt="Docker" />
 </td>
 </tr>
 <tr>
@@ -100,13 +127,12 @@
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="30" title="VS Code" alt="VS Code" />
 <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="30" title="Visual Studio" alt="Visual Studio" />
 <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="30" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="30" title="Postman" alt="Postman" />
 <img src="https://cdn.simpleicons.org/oxc/8B5CF6" width="30" title="oxlint" alt="oxlint" />
+<img src="https://img.shields.io/badge/pgAdmin-B87333?style=flat-square" title="pgAdmin" alt="pgAdmin" />
+<img src="https://img.shields.io/badge/Antigravity-B87333?style=flat-square" title="Antigravity" alt="Antigravity" />
 </td>
 </tr>
 </table>
-
-*Y también uso esto (sin ícono oficial disponible):* PL/SQL · Oracle SQL / LiveSQL · OpenAI API · pgAdmin · Antigravity
 
 ---
 
