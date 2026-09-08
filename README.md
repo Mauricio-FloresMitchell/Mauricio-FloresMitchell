@@ -5,7 +5,7 @@
 </td>
 <td valign="top">
 
-<img src="./assets/dev-mau-flores-title.png" width="380" alt="Dev Mau Flores" />
+<img src="./assets/dev-mau-flores-title.gif" width="380" alt="Dev Mau Flores" />
 
 ### `Full-Stack Developer` · `Backend & IA Aplicada` · `CDMX, México`
 
