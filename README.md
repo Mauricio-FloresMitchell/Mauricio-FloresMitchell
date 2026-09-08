@@ -11,18 +11,7 @@
 
 `~/whoami`
 
-<pre>
-Rol........................ Full-Stack Developer (Backend + IA Aplicada)
-Base....................... Java · Spring Boot · PLSQL · Python
-Frontend................... React · TypeScript · Vite · TailwindCSS
-IA.......................... Arquitecturas RAG, agentes, prompt engineering
-Bases de datos.............. PostgreSQL · Oracle SQL
-Educación................... Ing. en Sistemas Computacionales — UAN (2026)
-Certificaciones............. Back-End Developer (ONE / Alura LATAM, 2025)
-                              AWS Certified AI Practitioner (AIF-C01)
-                              AWS Certified Cloud Practitioner
-Idiomas...................... Español (nativo) · Inglés (técnico)
-</pre>
+<img src="./assets/whoami-card.png" width="480" alt="whoami" />
 
 </td>
 </tr>
