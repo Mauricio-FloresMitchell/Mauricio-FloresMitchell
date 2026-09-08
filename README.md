@@ -1,23 +1,20 @@
-<div align="center">
-
-<img src="./assets/mau-cowboy.png" width="300" alt="Mau Pixel Cowboy" />
+<table>
+<tr>
+<td width="300" valign="top" align="center">
+<img src="./assets/mau-cowboy.png" width="280" alt="Mau Pixel Cowboy" />
+</td>
+<td valign="top">
 
 # MAURICIO FLORES LÓPEZ
 ### `Full-Stack Developer` · `Backend & IA Aplicada` · `Est. de México, MX`
 
 *(alias profesional: **Dev Mau Flores** — consultoría tecnológica)*
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║   S E   B U S C A                                          ║
-║   por construir sistemas que no se caen y                  ║
-║   automatizar todo lo que se pueda automatizar              ║
-║                                                              ║
-║   RECOMPENSA: proyectos con retos reales                   ║
-╚═══════════════════════════════════════════════════════════╝
-```
+Construyo sistemas backend robustos y automatizaciones con IA aplicada — de la lógica de negocio a los agentes que la sostienen.
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -44,7 +41,7 @@ Idiomas.................... Español (nativo) · Inglés (técnico)
 <div align="center">
 <img src="./assets/mau-curso.png" width="90" align="left" alt="" />
 
-### 🛠️ TALLER DEL FORASTERO — Stack
+### STACK TÉCNICO
 
 <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,vite,tailwind,python,postgres,oracle,git,vercel&theme=dark" />
 
@@ -100,7 +97,7 @@ Motor de prospección B2B geolocalizada — extracción y filtrado de leads desd
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mauricio-FloresMitchell&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.hackclub.dev/api?username=Mauricio-FloresMitchell&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 <br/><br/>
 
