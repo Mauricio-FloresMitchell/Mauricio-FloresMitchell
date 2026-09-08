@@ -167,7 +167,12 @@ Motor de prospección B2B geolocalizada — extracción y filtrado de leads desd
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="150" valign="middle" align="center">
+<img src="./assets/mau-ares.png" width="130" alt="Ares" />
+</td>
+<td valign="top" align="center">
 
 ### 📡 SEÑAL DE HUMO — Contacto
 
@@ -191,4 +196,6 @@ Motor de prospección B2B geolocalizada — extracción y filtrado de leads desd
 <a href="https://www.youtube.com/@dev_mflores"><img src="./assets/social-youtube.png" width="42" title="YouTube" alt="YouTube" /></a>
 <a href="https://discord.gg/cYesTp9sW"><img src="./assets/social-discord.png" width="42" title="Discord" alt="Discord" /></a>
 
-</div>
+</td>
+</tr>
+</table>
