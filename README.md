@@ -147,7 +147,7 @@
 
 **Ludi Class — Plataforma LMS**
 Arquitectura feature-based en React 19 + TypeScript estricto, sistema de roles (Alumno/Profesor/Admin), validación con Zod, integración con Google Apps Script como backend ligero.
-`React` `TypeScript` `Vite` `TailwindCSS` · [Ver motor](https://plataforma-lms-nine.vercel.app/login)
+`React` `TypeScript` `Vite` `TailwindCSS` · [Ver demo](https://plataforma-lms-nine.vercel.app/login)
 
 </td>
 </tr>
