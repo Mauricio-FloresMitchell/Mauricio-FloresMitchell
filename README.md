@@ -39,74 +39,85 @@ Idiomas...................... Español (nativo) · Inglés (técnico)
 
 <br clear="left"/>
 
-**Lenguajes**
-
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" title="Java" alt="Java" />
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" title="JavaScript" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" title="TypeScript" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" title="Python" alt="Python" />
-<img src="https://img.shields.io/badge/PL%2FSQL-B87333?style=flat-square" title="PL/SQL" alt="PL/SQL" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" title="React 19" alt="React" />
-<img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="36" title="React Router DOM" alt="React Router DOM" />
-<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="36" title="Vite" alt="Vite" />
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" title="TailwindCSS" alt="TailwindCSS" />
-<img src="https://cdn.simpleicons.org/shadcnui/8B5CF6" width="36" title="shadcn/ui" alt="shadcn/ui" />
-<img src="https://cdn.simpleicons.org/radixui/8B5CF6" width="36" title="Radix UI" alt="Radix UI" />
-<img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="36" title="React Hook Form" alt="React Hook Form" />
-<img src="https://cdn.simpleicons.org/zod/3E67B1" width="36" title="Zod" alt="Zod" />
-
-**Backend & automatización**
-
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" title="Spring Boot" alt="Spring Boot" />
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" title="Node.js" alt="Node.js" />
-<img src="https://cdn.simpleicons.org/googleappsscript" width="36" title="Google Apps Script" alt="Google Apps Script" />
-
-**Bases de datos**
-
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" title="PostgreSQL" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Oracle%20SQL%20%2F%20LiveSQL-B87333?style=flat-square" title="Oracle SQL / LiveSQL" alt="Oracle SQL / LiveSQL" />
-
-**IA & automatización aplicada**
-
-Herramientas:
-
-<img src="https://img.shields.io/badge/OpenAI%20API-8B5CF6?style=flat-square" title="OpenAI API" alt="OpenAI API" />
-<img src="https://cdn.simpleicons.org/claude/D97757" width="36" title="Claude Code" alt="Claude Code" />
-<img src="https://cdn.simpleicons.org/googlegemini" width="36" title="Google Gemini" alt="Google Gemini" />
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="36" title="Streamlit" alt="Streamlit" />
-
-Prácticas:
-
+<table>
+<tr>
+<td valign="middle"><b>Lenguajes</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="42" title="Java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="42" title="JavaScript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="42" title="TypeScript" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="42" title="Python" alt="Python" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Frontend</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" title="React 19" alt="React" />
+<img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="32" title="React Router DOM" alt="React Router DOM" />
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="32" title="Vite" alt="Vite" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32" title="TailwindCSS" alt="TailwindCSS" />
+<img src="https://cdn.simpleicons.org/shadcnui/8B5CF6" width="32" title="shadcn/ui" alt="shadcn/ui" />
+<img src="https://cdn.simpleicons.org/radixui/8B5CF6" width="32" title="Radix UI" alt="Radix UI" />
+<img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="32" title="React Hook Form" alt="React Hook Form" />
+<img src="https://cdn.simpleicons.org/zod/3E67B1" width="32" title="Zod" alt="Zod" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Backend</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="42" title="Spring Boot 3" alt="Spring Boot 3" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="32" title="Node.js" alt="Node.js" />
+<img src="https://cdn.simpleicons.org/googleappsscript" width="32" title="Google Apps Script" alt="Google Apps Script" />
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="32" title=".NET" alt=".NET" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Bases de datos</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" title="PostgreSQL" alt="PostgreSQL" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>IA — herramientas</b></td>
+<td valign="middle">
+<img src="https://cdn.simpleicons.org/claude/D97757" width="32" title="Claude Code" alt="Claude Code" />
+<img src="https://cdn.simpleicons.org/googlegemini" width="32" title="Google Gemini" alt="Google Gemini" />
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="32" title="Streamlit" alt="Streamlit" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>IA — prácticas</b></td>
+<td valign="middle">
 <img src="https://img.shields.io/badge/Arquitecturas%20RAG-8B5CF6?style=flat-square" title="Arquitecturas RAG (recuperación de información aplicada a agentes)" alt="Arquitecturas RAG" />
 <img src="https://img.shields.io/badge/Dise%C3%B1o%20de%20Agentes%20IA-8B5CF6?style=flat-square" title="Diseño e implementación de agentes de IA personalizados" alt="Diseño de Agentes IA" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square" title="Prompt Engineering" alt="Prompt Engineering" />
 <img src="https://img.shields.io/badge/Evaluaci%C3%B3n%20de%20Modelos-8B5CF6?style=flat-square" title="Evaluación de modelos" alt="Evaluación de Modelos" />
 <img src="https://img.shields.io/badge/Optimizaci%C3%B3n%20de%20Latencia-8B5CF6?style=flat-square" title="Optimización de latencia" alt="Optimización de Latencia" />
 <img src="https://img.shields.io/badge/Optimizaci%C3%B3n%20de%20Costos%20de%20Tokens-8B5CF6?style=flat-square" title="Optimización y gestión de costo de tokens" alt="Optimización de Costos de Tokens" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Cloud & DevOps</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="38" title="AWS" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="32" title="Google Cloud" alt="Google Cloud" />
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="32" title="Vercel" alt="Vercel" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="38" title="Git" alt="Git" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Herramientas & IDEs</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="30" title="VS Code" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="30" title="Visual Studio" alt="Visual Studio" />
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="30" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="30" title="Postman" alt="Postman" />
+<img src="https://cdn.simpleicons.org/oxc/8B5CF6" width="30" title="oxlint" alt="oxlint" />
+</td>
+</tr>
+</table>
 
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40" title="AWS" alt="AWS" />
-<img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="36" title="Google Cloud" alt="Google Cloud" />
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="36" title="Vercel" alt="Vercel" />
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" alt="Git" />
-
-**Herramientas & IDEs**
-
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="32" title="VS Code" alt="VS Code" />
-<img src="https://img.shields.io/badge/Antigravity-B87333?style=flat-square" title="Antigravity" alt="Antigravity" />
-<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="32" title="Visual Studio" alt="Visual Studio" />
-<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="32" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="32" title="Postman" alt="Postman" />
-<img src="https://img.shields.io/badge/pgAdmin-B87333?style=flat-square" title="pgAdmin" alt="pgAdmin" />
-<img src="https://cdn.simpleicons.org/oxc/8B5CF6" width="32" title="oxlint" alt="oxlint" />
-
-**Otros** *(uso mínimo)*
-
-<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="28" title=".NET (uso mínimo)" alt=".NET" />
+*Y también uso esto (sin ícono oficial disponible):* PL/SQL · Oracle SQL / LiveSQL · OpenAI API · pgAdmin · Antigravity
 
 ---
 
